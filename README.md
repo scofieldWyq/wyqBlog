@@ -6,3 +6,7 @@
 
  This repository contains all of my blog resource.include pictures, code file, other files.
 
+
+ Blog site: [scofieldwyq.github.com](scofieldwyq.github.com)
+
+
