@@ -44,19 +44,18 @@ INSERT INTO teacher(tno, tname) VALUES(10008, "wi");
 INSERT INTO teacher(tno, tname) VALUES(10009, "wj");
 
 /* insert student data */
-INSERT INTO student(sno sname, tno) VALUES(20000, "sa", 10000);
-INSERT INTO student(sno sname, tno) VALUES(20001, "sb", 10000);
-INSERT INTO student(sno sname, tno) VALUES(20002, "sc", 10000);
-INSERT INTO student(sno sname, tno) VALUES(20003, "sd", 10000);
-INSERT INTO student(sno sname, tno) VALUES(20004, "se", 10000);
-INSERT INTO student(sno sname, tno) VALUES(20005, "sf", 10000);
-INSERT INTO student(sno sname, tno) VALUES(20006, "sg", 10000);
-INSERT INTO student(sno sname, tno) VALUES(20007, "sh", 10000);
-INSERT INTO student(sno sname, tno) VALUES(20008, "si", 10000);
-INSERT INTO student(sno sname, tno) VALUES(20009, "sj", 10000);
-INSERT INTO student(sno sname, tno) VALUES(20010, "sk", 10000);
-INSERT INTO student(sno sname, tno) VALUES(20011, "sl", 10000);
-INSERT INTO student(sno sname, tno) VALUES(20012, "sm", 10000);
-INSERT INTO student(sno sname, tno) VALUES(20013, "sn", 10000);
-
+INSERT INTO student(sno, sname, tno) VALUES(20000, "sa", 10000);
+INSERT INTO student(sno, sname, tno) VALUES(20001, "sb", 10000);
+INSERT INTO student(sno, sname, tno) VALUES(20002, "sc", 10000);
+INSERT INTO student(sno, sname, tno) VALUES(20003, "sd", 10000);
+INSERT INTO student(sno, sname, tno) VALUES(20004, "se", 10000);
+INSERT INTO student(sno, sname, tno) VALUES(20005, "sf", 10000);
+INSERT INTO student(sno, sname, tno) VALUES(20006, "sg", 10000);
+INSERT INTO student(sno, sname, tno) VALUES(20007, "sh", 10000);
+INSERT INTO student(sno, sname, tno) VALUES(20008, "si", 10000);
+INSERT INTO student(sno, sname, tno) VALUES(20009, "sj", 10000);
+INSERT INTO student(sno, sname, tno) VALUES(20010, "sk", 10000);
+INSERT INTO student(sno, sname, tno) VALUES(20011, "sl", 10000);
+INSERT INTO student(sno, sname, tno) VALUES(20012, "sm", 10000);
+INSERT INTO student(sno, sname, tno) VALUES(20013, "sn", 10000);
 /* end */
